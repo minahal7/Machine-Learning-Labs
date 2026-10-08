@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Machine Learning"
+		},
+		{
+			"path": "../Mobile Application"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Activity-6"
+	}
+}
